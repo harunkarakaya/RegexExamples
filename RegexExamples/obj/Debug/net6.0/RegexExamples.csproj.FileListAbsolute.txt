@@ -1,0 +1,15 @@
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\bin\Debug\net6.0\RegexExamples.exe
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\bin\Debug\net6.0\RegexExamples.deps.json
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\bin\Debug\net6.0\RegexExamples.runtimeconfig.json
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\bin\Debug\net6.0\RegexExamples.dll
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\bin\Debug\net6.0\RegexExamples.pdb
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.csproj.AssemblyReference.cache
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.AssemblyInfoInputs.cache
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.AssemblyInfo.cs
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.csproj.CoreCompileInputs.cache
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.dll
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\refint\RegexExamples.dll
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.pdb
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\RegexExamples.genruntimeconfig.cache
+D:\Yazılım\GitHub\RegexExample\RegexExamples\RegexExamples\obj\Debug\net6.0\ref\RegexExamples.dll
